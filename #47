@@ -141,25 +141,6 @@
   
     <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
       <tr>
-        <td style="padding:5px 0px 05px 0px;line-height:22px;text-align:inherit;"
-            height="100%"
-            valign="top"
-            bgcolor="">
-            <div style="text-align: center;"><strong><span style="font-size:11px;">TOGETHER WITH</span></strong></div>
-        </td>
-      </tr>
-    </table>
-  
-    <table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
-      <tr>
-        <td style="font-size:6px;line-height:10px;padding:0px 0px 0px 0px;" valign="top" align="center">
-          <img class="max-width" border="0" style="display:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:15% !important;width:15%;height:auto !important;" src="https://legacy-image-prod.s3.amazonaws.com/uploads/b680c4df66e6239317a68fa4e685bdae2d4ab982fcfea7cdb51deaaad8d37b563d2de17c247e410960b0c7f17ffab26f7154c0b71db8bd8165a47a2866ce4208.png" alt="" width="90">
-        </td>
-      </tr>
-    </table>
-  
-    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
-      <tr>
         <td style="padding:0px 10px 0px 10px;text-align:inherit;"
             height="100%"
             valign="top"
@@ -229,107 +210,40 @@
   
     <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
       <tr>
-        <td style="padding:0px 00px 0px 00px;text-align:inherit;background-color:#E5E4E2;"
+        <td style="padding:0px 00px 0px 00px;text-align:inherit;"
             height="100%"
             valign="top"
-            bgcolor="#E5E4E2">
-            <h2 style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-family: arial, helvetica, sans-serif; color: rgb(51, 51, 51);"><span style="font-size:16px;">Chartr: <span id="docs-internal-guid-7ce19776-7fff-0633-a9d2-e5cfea71ea4e" style="font-weight:normal;"><span style="font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"><strong>Get smarter in conversation with the</strong> </span><span style="font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; white-space: pre-wrap;">#1 visual newsletter</span></span></span></h2>
-
-        </td>
-      </tr>
-    </table>
-  
-    <table  border="0"
-            cellpadding="0"
-            cellspacing="0"
-            align="center"
-            width="100%"
-            role="module"
-            data-type="columns"
-            data-version="2"
-            style="padding:0px 0px 0px 0px;box-sizing:border-box;"
             bgcolor="">
-      <tr role='module-content'>
-        <td height="100%" valign="top">
-            <!--[if (gte mso 9)|(IE)]>
-              <center>
-                <table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-spacing:0;border-collapse:collapse;table-layout: fixed;" >
-                  <tr>
-            <![endif]-->
-          
-    <!--[if (gte mso 9)|(IE)]>
-      <td width="300.000px" valign="top" style="padding: 0px 0px 0px 0px;border-collapse: collapse;" >
-    <![endif]-->
-
-    <table  width="300.000"
-            style="width:300.000px;border-spacing:0;border-collapse:collapse;margin:0px 0px 0px 0px;"
-            cellpadding="0"
-            cellspacing="0"
-            align="left"
-            border="0"
-            bgcolor=""
-            class="column column-0 of-2
-                  empty"
-      >
-      <tr>
-        <td style="padding:0px;margin:0px;border-spacing:0;">
-            
-    <table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
-      <tr>
-        <td style="font-size:6px;line-height:10px;padding:0px 0px 0px 0px;" valign="top" align="center">
-          <img class="max-width" border="0" style="display:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:50% !important;width:50%;height:auto !important;" src="https://legacy-image-prod.s3.amazonaws.com/uploads/b680c4df66e6239317a68fa4e685bdae2d4ab982fcfea7cdb51deaaad8d37b563d2de17c247e410960b0c7f17ffab26f7154c0b71db8bd8165a47a2866ce4208.png" alt="" width="150">
+            <h2 style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-family: arial, helvetica, sans-serif; color: rgb(51, 51, 51);"><span style="font-size: 16px;">Your path to engineering management can be untraditional</span></h2>
         </td>
       </tr>
     </table>
   
-        </td>
-      </tr>
-    </table>
-
-    <!--[if (gte mso 9)|(IE)]>
-      </td>
-    <![endif]-->
-    <!--[if (gte mso 9)|(IE)]>
-      <td width="300.000px" valign="top" style="padding: 0px 0px 0px 0px;border-collapse: collapse;" >
-    <![endif]-->
-
-    <table  width="300.000"
-            style="width:300.000px;border-spacing:0;border-collapse:collapse;margin:0px 0px 0px 0px;"
-            cellpadding="0"
-            cellspacing="0"
-            align="left"
-            border="0"
-            bgcolor=""
-            class="column column-1 of-2
-                  empty"
-      >
-      <tr>
-        <td style="padding:0px;margin:0px;border-spacing:0;">
-            
     <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
       <tr>
         <td style="padding:18px 0px 18px 0px;line-height:22px;text-align:inherit;"
             height="100%"
             valign="top"
             bgcolor="">
-            <div><span id="docs-internal-guid-af6a4029-7fff-dc77-f043-8962ce466b80" style="font-weight:normal;"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Get the data, anecdotes and visuals you need to </span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; white-space: pre-wrap;">understand</span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"> today&#39;s world and </span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; white-space: pre-wrap;">sound smarter </span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">in conversation at the office, bar and dinner table. Join 200,000+ data-driven professionals who love the </span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration-line: underline; text-decoration-skip-ink: none; white-space: pre-wrap;">#1 visual newsletter</span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"> from our friends at Chartr, filled with snackable charts on business, tech entertainment and society. </span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration-line: underline; text-decoration-skip-ink: none; white-space: pre-wrap;">Sign up today.</span></span></div>
+            <div>
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">While some people may become managers after years of working as engineers, it’s also possible to make the transition without spending any time in a traditional engineering role.</div>
 
-        </td>
-      </tr>
-    </table>
-  
-        </td>
-      </tr>
-    </table>
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">&nbsp;</div>
 
-    <!--[if (gte mso 9)|(IE)]>
-      </td>
-    <![endif]-->
-            <!--[if (gte mso 9)|(IE)]>
-                  <tr>
-                </table>
-              </center>
-            <![endif]-->
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">Truth is, management is not for everybody. But if you are passionate about helping devs grow and build amazing things, you have what it takes to get started on this journey.</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">&nbsp;</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">Here’s what you need to know about&nbsp;<a href="https://leaddev.com/career-ladders/why-your-path-engineering-management-doesnt-have-be-traditional" style="font-size: 14px;">becoming an engineering manager</a>&nbsp;from someone who’s done it himself.</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">&nbsp;</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">The tech industry is booming, and there are more opportunities than ever before. But getting hired is only part of the process.</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">&nbsp;</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">Here’s how to actually&nbsp;<a href="https://www.codementor.io/events/how-to-land-your-dream-job-exg8k4d8up?ref=newsletter" style="font-size: 14px;">land your dream job</a>.</div>
+</div>
         </td>
       </tr>
     </table>
@@ -500,8 +414,8 @@
   
     <table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
       <tr>
-        <td style="font-size:6px;line-height:10px;padding:0px 0px 0px 0px;" valign="top" align="center">
-          <img class="max-width" border="0" style="display:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:15% !important;width:15%;height:auto !important;" src="https://legacy-image-prod.s3.amazonaws.com/uploads/3719a508a6a5562b382fda5e6fd59100d72c2dd1bb5a164dbca31a05880bd2f21163bbc2b6f3c956cfda4363a2a4c89abb7d31c41fb42f8475ea31f986891320.png" alt="" width="90">
+        <td style="font-size:6px;line-height:10px;padding:0px 0px 10px 0px;" valign="top" align="center">
+          <a href="https://vpdae.com/redirect/rvfngom9o3rgcsto2jurpfe9tsx"><img class="max-width" border="0" style="display:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:15% !important;width:15%;height:auto !important;" src="https://legacy-image-prod.s3.amazonaws.com/uploads/3719a508a6a5562b382fda5e6fd59100d72c2dd1bb5a164dbca31a05880bd2f21163bbc2b6f3c956cfda4363a2a4c89abb7d31c41fb42f8475ea31f986891320.png" alt="" width="90"></a>
         </td>
       </tr>
     </table>
@@ -512,7 +426,7 @@
             height="100%"
             valign="top"
             bgcolor="#e5e4e2">
-            <div><span style="color: rgb(73, 80, 87); font-family: geomanist, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;">Segment is an API-first analytics solution that empowers 15k+ startups to scale their data infrastructure. And it's now free for Startups!&nbsp;<a href="https://vpdae.com/redirect/rvfngom9o3rgcsto2jurpfe9tsx">Get access</a>!&nbsp;</span><strong><span style="font-weight: 600; background: rgb(229, 228, 226); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">[SPONSORED]</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; background-color: rgb(229, 228, 226);">&nbsp;</span></strong></div>
+            <div><strong>[SPONSORED]</strong> <span style="color: rgb(73, 80, 87); font-family: geomanist, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;">Segment is an API-first analytics solution that empowers 15k+ startups to scale their data infrastructure. And it's now free for Startups!&nbsp;<a href="https://vpdae.com/redirect/rvfngom9o3rgcsto2jurpfe9tsx">Get access</a>.</span></div>
         </td>
       </tr>
     </table>
