@@ -1,0 +1,569 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html data-editor-version="2" class="sg-campaigns" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" /><!--[if !mso]><!-->
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" /><!--<![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <style type="text/css">
+      body {width: 600px;margin: 0 auto;}
+      table {border-collapse: collapse;}
+      table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+      img {-ms-interpolation-mode: bicubic;}
+    </style>
+    <![endif]-->
+
+    <style type="text/css">
+      body, p, div {
+        font-family: arial,helvetica,sans-serif;
+        font-size: 14px;
+      }
+      body {
+        color: #333;
+      }
+      body a {
+        color: #1188E6;
+        text-decoration: none;
+      }
+      p { margin: 0; padding: 0; }
+      table.wrapper {
+        width:100% !important;
+        table-layout: fixed;
+        -webkit-font-smoothing: antialiased;
+        -webkit-text-size-adjust: 100%;
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      img.max-width {
+        max-width: 100% !important;
+      }
+      .column.of-2 {
+        width: 50%;
+      }
+      .column.of-3 {
+        width: 33.333%;
+      }
+      .column.of-4 {
+        width: 25%;
+      }
+      @media screen and (max-width:480px) {
+        .preheader .rightColumnContent,
+        .footer .rightColumnContent {
+            text-align: left !important;
+        }
+        .preheader .rightColumnContent div,
+        .preheader .rightColumnContent span,
+        .footer .rightColumnContent div,
+        .footer .rightColumnContent span {
+          text-align: left !important;
+        }
+        .preheader .rightColumnContent,
+        .preheader .leftColumnContent {
+          font-size: 80% !important;
+          padding: 5px 0;
+        }
+        table.wrapper-mobile {
+          width: 100% !important;
+          table-layout: fixed;
+        }
+        img.max-width {
+          height: auto !important;
+          max-width: 480px !important;
+        }
+        a.bulletproof-button {
+          display: block !important;
+          width: auto !important;
+          font-size: 80%;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+        .columns {
+          width: 100% !important;
+        }
+        .column {
+          display: block !important;
+          width: 100% !important;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+          margin-left: 0 !important;
+          margin-right: 0 !important;
+        }
+      }
+    </style>
+    <!--user entered Head Start-->
+    
+     <!--End Head user entered-->
+  </head>
+  <body>
+    <center class="wrapper" data-link-color="#1188E6" data-body-style="font-size: 14px; font-family: arial,helvetica,sans-serif; color: #333; background-color: #ffffff;">
+      <div class="webkit">
+        <table cellpadding="0" cellspacing="0" border="0" width="100%" class="wrapper" bgcolor="#ffffff">
+          <tr>
+            <td valign="top" bgcolor="#ffffff" width="100%">
+              <table width="100%" role="content-container" class="outer" align="center" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td width="100%">
+                    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                      <tr>
+                        <td>
+                          <!--[if mso]>
+                          <center>
+                          <table><tr><td width="600">
+                          <![endif]-->
+                          <table width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; max-width:600px;" align="center">
+                            <tr>
+                              <td role="modules-container" style="padding: 0px 0px 0px 0px; color: #333; text-align: left;" bgcolor="#ffffff" width="100%" align="left">
+                                
+    <table class="module preheader preheader-hide" role="module" data-type="preheader" border="0" cellpadding="0" cellspacing="0" width="100%"
+           style="display: none !important; mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height: 0; width: 0;">
+      <tr>
+        <td role="module-content">
+          <p>No code no problem: Evolve your systems as quickly as your business</p>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="font-size:6px;line-height:10px;padding:0px 0px 0px 0px;" valign="top" align="center">
+          <a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220718"><img class="max-width" border="0" style="display:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:100% !important;width:100%;height:auto !important;" src="https://legacy-image-prod.s3.amazonaws.com/uploads/d7d6b56e4bc99922ae0910b79796579362db08c58697f3f3312c276f373deb8d5417f9f6be742da5b278f9c218743efe05d052a424ce331590405d4a8209b289.png" alt="Arc Newsletter" width="600"></a>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="padding:0px 10px 0px 10px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <h2 style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-family: arial, helvetica, sans-serif;"><span style="font-size: 16px;">Are you #opentowork? Arc is here&nbsp;to help</span></h2>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="padding:0px 10px 20px 10px;line-height:24px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <div>The tech industry has been hit hard in recent months. This year, over 28k+ tech workers were laid off.</div>
+
+<div>&nbsp;</div>
+
+<div><span id="docs-internal-guid-85d1accb-7fff-1917-10a6-ebe639dc0210" style="font-weight:normal;"><span style="font-size: 11pt; font-family: Roboto, sans-serif; color: rgb(30, 41, 59); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Yes, the job market can be challenging. But there are still many tech companies looking for talent like you.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span id="docs-internal-guid-198200d8-7fff-49c3-7590-b054b4c2bf42" style="font-weight:normal;"><span style="font-size: 11pt; font-family: Roboto, sans-serif; color: rgb(30, 41, 59); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">That's why we created Arc to help developers everywhere find great opportunities no matter where they live.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span id="docs-internal-guid-7bf956df-7fff-9653-bbbc-8a9b6feef754" style="font-weight:normal;"><span style="font-size: 11pt; font-family: Roboto, sans-serif; color: rgb(30, 41, 59); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Our team is prioritizing devs affected by these layoffs and helping them bounce back quickly.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div>Learn more about our initiative <a href="https://arc.dev/w/dev-layoffs?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_term=20220718">here</a>.</div>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module"
+           role="module"
+           data-type="divider"
+           border="0"
+           cellpadding="0"
+           cellspacing="0"
+           width="100%"
+           style="table-layout: fixed;">
+      <tr>
+        <td style="padding:18px 0px 18px 0px;"
+            role="module-content"
+            height="100%"
+            valign="top"
+            bgcolor="">
+          <table border="0"
+                 cellpadding="0"
+                 cellspacing="0"
+                 align="center"
+                 width="100%"
+                 height="1px"
+                 style="line-height:1px; font-size:1px;">
+            <tr>
+              <td
+                style="padding: 0px 0px 1px 0px;"
+                bgcolor="#D8D8D8"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="padding:0px 00px 0px 00px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <h2><span style="font-size: 16px;">So you want to get more productive? Try these apps</span></h2>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="padding:18px 0px 18px 0px;line-height:22px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">From exciting new ways&nbsp;for smarter remote collaboration to powerful tools for your web browser, Fast Company's "<a href="https://www.fastcompany.com/90766562/the-23-best-new-productivity-apps-for-2022">23 Best New Productivity&nbsp;Apps</a>" has us trying all of them out.</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">&nbsp;</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">The best part?&nbsp;Almost&nbsp;all of them are free.</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">&nbsp;</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);"><span id="docs-internal-guid-05fdeefc-7fff-52d4-4ce2-58526acaceb0" style="font-weight:normal;"><span style="font-size: 11pt; font-family: Roboto, sans-serif; color: rgb(30, 41, 59); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">These clever tech tools are a great way to start becoming more efficient.</span></span></div>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module"
+           role="module"
+           data-type="divider"
+           border="0"
+           cellpadding="0"
+           cellspacing="0"
+           width="100%"
+           style="table-layout: fixed;">
+      <tr>
+        <td style="padding:18px 0px 18px 0px;"
+            role="module-content"
+            height="100%"
+            valign="top"
+            bgcolor="">
+          <table border="0"
+                 cellpadding="0"
+                 cellspacing="0"
+                 align="center"
+                 width="100%"
+                 height="1px"
+                 style="line-height:1px; font-size:1px;">
+            <tr>
+              <td
+                style="padding: 0px 0px 1px 0px;"
+                bgcolor="#D8D8D8"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="padding:0px 10px 0px 10px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <h2><span style="font-size: 16px;">No-code devs, it's time to step up your game</span></h2>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="padding:0px 10px 20px 10px;line-height:24px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);"><span id="docs-internal-guid-ffe7b35d-7fff-f2f6-5135-db8aa1af9758" style="font-weight:normal;"><span style="font-size: 11pt; font-family: Roboto, sans-serif; color: rgb(30, 41, 59); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Are business applications out of control?</span></span><br>
+<br>
+In the article "<a href="https://www.infoq.com/articles/growing-nocode-developers/">It's Time to Start Growing No-Code Developers,</a>"&nbsp;Gil Hoffer, the CTO and Co-founder at Salto, explains that you don't have to code to be a developer but you must&nbsp;think like one.</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">&nbsp;</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">The no-code business systems are critical to business growth. Teach your no-code devs and unlock their&nbsp;full potential.</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">&nbsp;</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">And for our yes-code devs out there, check out our upcoming virtual event "<a href="https://www.codementor.io/events/web-performance-what-it-is-and-how-to-improve-it-erv00qbta7?ref=arc-newsletter">Web Performance:&nbsp;What It Is and How to Improve it</a>"&nbsp;from our friends at Codementor to explore elements of web performance.</div>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module"
+           role="module"
+           data-type="divider"
+           border="0"
+           cellpadding="0"
+           cellspacing="0"
+           width="100%"
+           style="table-layout: fixed;">
+      <tr>
+        <td style="padding:18px 0px 18px 0px;"
+            role="module-content"
+            height="100%"
+            valign="top"
+            bgcolor="">
+          <table border="0"
+                 cellpadding="0"
+                 cellspacing="0"
+                 align="center"
+                 width="100%"
+                 height="1px"
+                 style="line-height:1px; font-size:1px;">
+            <tr>
+              <td
+                style="padding: 0px 0px 1px 0px;"
+                bgcolor="#D8D8D8"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="padding:0px 10px 0px 10px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <h2><span style="font-size: 16px;">Get your profile featured to companies &amp; startups hiring right now</span></h2>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="padding:0px 10px 20px 10px;line-height:24px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <div>Have you checked out Arc's radically different remote job search experience?</div>
+
+<div>&nbsp;</div>
+
+<div>Here's what developers are saying about it:</div>
+
+<ul>
+	<li>"I received four interviews in two weeks, then accepted a remote role that was double my previous salary" — Juan from Argentina</li>
+	<li>"The personal coaching I received from the Arc team was incredibly valuable" — Robson from Brazil</li>
+</ul>
+
+<div>&nbsp;</div>
+
+<div><a href="https://arc.dev/get-featured?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220718">Learn more about getting featured directly to companies</a></div>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module"
+           role="module"
+           data-type="divider"
+           border="0"
+           cellpadding="0"
+           cellspacing="0"
+           width="100%"
+           style="table-layout: fixed;">
+      <tr>
+        <td style="padding:18px 0px 18px 0px;"
+            role="module-content"
+            height="100%"
+            valign="top"
+            bgcolor="">
+          <table border="0"
+                 cellpadding="0"
+                 cellspacing="0"
+                 align="center"
+                 width="100%"
+                 height="1px"
+                 style="line-height:1px; font-size:1px;">
+            <tr>
+              <td
+                style="padding: 0px 0px 1px 0px;"
+                bgcolor="#D8D8D8"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="font-size:6px;line-height:10px;padding:0px 0px 0px 0px;" valign="top" align="center">
+          <img class="max-width" border="0" style="display:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:12% !important;width:12%;height:auto !important;" src="https://legacy-image-prod.s3.amazonaws.com/uploads/3e839235343891a0ae3bfa466c4c792d0a4a3b1a0d8c7eb0a11f49daf84e52b55c0bc38c00ebed98fd77e3bd68ca7dc48aae166339276865182ae4dd9da8d4d5.png" alt="" width="72">
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="background-color:#e5e4e2;padding:10px 010px 10px 10px;line-height:22px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="#e5e4e2">
+            <div><strong>[SPONSORED]</strong> If you're wondering how to be an entrepreneur, <strong>Founder's Book </strong>has got you covered—with access to curated tools and resources to get you started. <a href="links.swapstack.co/o9j">Learn more!</a></div>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module"
+           role="module"
+           data-type="divider"
+           border="0"
+           cellpadding="0"
+           cellspacing="0"
+           width="100%"
+           style="table-layout: fixed;">
+      <tr>
+        <td style="padding:18px 0px 18px 0px;"
+            role="module-content"
+            height="100%"
+            valign="top"
+            bgcolor="">
+          <table border="0"
+                 cellpadding="0"
+                 cellspacing="0"
+                 align="center"
+                 width="100%"
+                 height="1px"
+                 style="line-height:1px; font-size:1px;">
+            <tr>
+              <td
+                style="padding: 0px 0px 1px 0px;"
+                bgcolor="#D8D8D8"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="padding:0px 0px 18px 0px;line-height:22px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <div style="text-align: center;"><strong>About Us:</strong><br>
+<br>
+<em><a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220718">Arc</a> is the easiest way to find remote developer jobs.</em></div>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="social" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tbody>
+        <tr>
+          <td valign="top" style="padding:0px 0px 018px 0px;font-size:6px;line-height:10px;">
+            <table align="center">
+              <tbody>
+                <tr>
+                  
+                  <td style="padding: 0px 5px;">
+        <a role="social-icon-link"  href="https://twitter.com/arcdotdev" target="_blank" alt="Twitter"
+          data-nolink="false"
+          title="Twitter "
+          style="-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;display:inline-block;background-color:#7AC4F7;">
+          <img role="social-icon" alt="Twitter" title="Twitter "
+            height="30"
+            width="30"
+            style="height: 30px, width: 30px"
+            src="https://marketing-image-production.s3.amazonaws.com/social/white/twitter.png" />
+        </a>
+      </td>
+                  
+                  
+                  
+                  <td style="padding: 0px 5px;">
+        <a role="social-icon-link"  href="https://www.linkedin.com/company/arcdotdev" target="_blank" alt="LinkedIn"
+          data-nolink="false"
+          title="LinkedIn "
+          style="-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;display:inline-block;background-color:#0077B5;">
+          <img role="social-icon" alt="LinkedIn" title="LinkedIn "
+            height="30"
+            width="30"
+            style="height: 30px, width: 30px"
+            src="https://marketing-image-production.s3.amazonaws.com/social/white/linkedin.png" />
+        </a>
+      </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  <table border="0" cellPadding="0" cellSpacing="0" class="module" data-role="module-button" data-type="button" role="module" style="table-layout:fixed" width="100%"><tbody><tr><td align="center" class="outer-td" style="padding:0px 0px 0px 0px"><table border="0" cellPadding="0" cellSpacing="0" class="button-css__deep-table___2OZyb wrapper-mobile" style="text-align:center"><tbody><tr><td align="center" bgcolor="#ffffff" class="inner-td" style="border-radius:6px;font-size:16px;text-align:center;background-color:inherit"><a style="background-color:#ffffff;border:1px solid #333333;border-color:#ffffff;border-radius:6px;border-width:0px;color:#02157C;display:inline-block;font-family:arial,helvetica,sans-serif;font-size:13px;font-weight:bold;letter-spacing:0px;line-height:12px;padding:18px 18px 18px 18px;text-align:center;text-decoration:none;font-style:italic" href="https://arc.dev/developer-blog/?utm_source=sendgrid&utm_medium=email&utm_campaign=arc-newsletter&utm_content=20220718" target="_blank">Read more on Arc →</a></td></tr></tbody></table></td></tr></tbody></table>
+    <table class="module"
+           role="module"
+           data-type="divider"
+           border="0"
+           cellpadding="0"
+           cellspacing="0"
+           width="100%"
+           style="table-layout: fixed;">
+      <tr>
+        <td style="padding:18px 0px 18px 0px;"
+            role="module-content"
+            height="100%"
+            valign="top"
+            bgcolor="">
+          <table border="0"
+                 cellpadding="0"
+                 cellspacing="0"
+                 align="center"
+                 width="100%"
+                 height="1px"
+                 style="line-height:1px; font-size:1px;">
+            <tr>
+              <td
+                style="padding: 0px 0px 1px 0px;"
+                bgcolor="#D8D8D8"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="padding:0px 010px 018px 010px;line-height:22px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <div style="text-align: center;"><span style="font-size:12px;"><em><span style="color:#444444;"><font face="Slack-Lato, appleLogo, sans-serif"><span style="font-variant-ligatures: common-ligatures;">Did someone forward you this newsletter and you want to subscribe? Click <a href="https://get.arc.dev/w/arc-newsletter-subscription?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220718">here</a>.<br>
+<strong>To unsubscribe, go to the base of this email.</strong></span></font></span></em></span></div>
+        </td>
+      </tr>
+    </table>
+  <div data-role="module-unsubscribe" class="module unsubscribe-css__unsubscribe___2CDlR" role="module" data-type="unsubscribe" style="background-color:#f9f9f9;color:#444444;font-size:12px;line-height:20px;padding:16px 20px 20px 16px;text-align:center"><div class="Unsubscribe--addressLine"><p class="Unsubscribe--senderName" style="font-family:arial,helvetica, sans-serif;font-size:12px;line-height:20px">[Sender_Name]</p><p style="font-family:arial,helvetica, sans-serif;font-size:12px;line-height:20px"><span class="Unsubscribe--senderAddress">[Sender_Address]</span>, <span class="Unsubscribe--senderCity">[Sender_City]</span>, <span class="Unsubscribe--senderState">[Sender_State]</span> <span class="Unsubscribe--senderZip">[Sender_Zip]</span> </p></div><p style="font-family:arial,helvetica, sans-serif;font-size:12px;line-height:20px"><a class="Unsubscribe--unsubscribeLink" href="<%asm_group_unsubscribe_raw_url%>" style="color:#666666">Unsubscribe</a></p></div>
+                              </td>
+                            </tr>
+                          </table>
+                          <!--[if mso]>
+                          </td></tr></table>
+                          </center>
+                          <![endif]-->
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </center>
+  </body>
+</html>
